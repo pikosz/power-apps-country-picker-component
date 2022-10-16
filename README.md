@@ -10,7 +10,7 @@
 ###### 1. Download MSAPP file from this repository
 ######  2. Import MSAPP file into your application as below
 ![](https://s4.gifyu.com/images/import-cmp.png)
-######  3. Add component to your application as below & set it's height as Parent.Height and width as Parent.Width where Parent is the Screen.
+######  3. Add component to your application as below & set its height as Parent.Height and width as Parent.Width where Parent is the Screen.
 ![](https://s1.gifyu.com/images/country-picker-how-to-add.gif)
 ######  4. Define countries for users to pick in below format or leave default
 ###### (Default list is based on https://worldpopulationreview.com/country-rankings/country-codes)
